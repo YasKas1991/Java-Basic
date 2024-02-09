@@ -22,9 +22,11 @@ public Pathway() {
     type = "Finance";
 }
 }
+
+
 public class myDemo {
 
-    public static void main(String a[]) {
+    public static void main(String a[]) { //Static Method, do not need to create object of class to call this method myDemo
         Pathway.type = "Finance"; //Course Pathway
 
         Pathway p1 = new Pathway();
