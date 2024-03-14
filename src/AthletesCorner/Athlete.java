@@ -1,3 +1,4 @@
+package AthletesCorner;
 // Define a class called Athlete to model athletes.
 public class Athlete {
     // Attributes or properties of the Athlete class.

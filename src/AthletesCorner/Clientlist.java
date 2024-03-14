@@ -1,3 +1,4 @@
+package AthletesCorner;
 
 class Client {
     private String name;
@@ -35,9 +36,9 @@ public class Clientlist {
         Client client3 = new Client("Charlie", 3);
         
         // Example usage
-        System.out.println(client1.getName() + " has ID: " + client1.getId());
-        System.out.println(client2.getName() + " has ID: " + client2.getId());
-        System.out.println(client3.getName() + " has ID: " + client3.getId());
+        // System.out.println(client1.getName() + " has ID: " + client1.getId());
+        // System.out.println(client2.getName() + " has ID: " + client2.getId());
+        // System.out.println(client3.getName() + " has ID: " + client3.getId());
     }
 }
 

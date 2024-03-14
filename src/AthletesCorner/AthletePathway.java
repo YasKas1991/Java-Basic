@@ -1,3 +1,4 @@
+package AthletesCorner;
 
 class Pathway {
     String brand;
@@ -24,7 +25,7 @@ public Pathway() {
 }
 
 
-public class myDemo {
+public class AthletePathway {
 
     public static void main(String a[]) { //Static Method, do not need to create object of class to call this method myDemo
         Pathway.type = "Finance"; //Course Pathway
